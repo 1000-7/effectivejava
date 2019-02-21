@@ -1,4 +1,4 @@
-package info.unclewang.chapter3.e10_equals;
+package info.unclewang.chapter03.e10_equals;
 
 public class EqualsUse {
     /**

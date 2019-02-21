@@ -1,4 +1,4 @@
-package info.unclewang.chapter3.e11_hashcode;
+package info.unclewang.chapter03.e11_hashcode;
 
 import com.google.common.base.Objects;
 

@@ -1,6 +1,6 @@
-package info.unclewang.chapter3.e13_clone;
+package info.unclewang.chapter03.e13_clone;
 
-import info.unclewang.chapter2.e07.Stack;
+import info.unclewang.chapter02.e07.Stack;
 
 public class StackClone extends Stack {
     @Override

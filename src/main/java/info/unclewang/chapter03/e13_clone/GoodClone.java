@@ -1,4 +1,4 @@
-package info.unclewang.chapter3.e13_clone;
+package info.unclewang.chapter03.e13_clone;
 
 public class GoodClone {
     private String a;

@@ -1,6 +1,6 @@
-package info.unclewang.chapter3.e14_comparable;
+package info.unclewang.chapter03.e14_comparable;
 
-import info.unclewang.chapter3.e10_equals.PhoneNumber;
+import info.unclewang.chapter03.e10_equals.PhoneNumber;
 
 import java.util.Comparator;
 

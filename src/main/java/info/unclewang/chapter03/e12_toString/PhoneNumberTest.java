@@ -1,6 +1,6 @@
-package info.unclewang.chapter3.e12_toString;
+package info.unclewang.chapter03.e12_toString;
 
-import info.unclewang.chapter3.e10_equals.PhoneNumber;
+import info.unclewang.chapter03.e10_equals.PhoneNumber;
 
 /**
  * @7C21 是对象计算得到的散列码的无符号十六进制表示法
